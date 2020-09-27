@@ -1,12 +1,12 @@
 Type=Exe
 Form=FormRebel1.frm
-Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\WINDOWS\SysWow64\stdole2.tlb#OLE Automation
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\..\..\Windows\SysWOW64\stdole2.tlb#OLE Automation
 Object={648A5603-2C6E-101B-82B6-000000000014}#1.1#0; MSCOMM32.OCX
-Module=StringStuff; ..\SkyPipeII\StringStuff.bas
+Module=StringStuff; StringStuff.bas
 Object={F9043C88-F6F2-101A-A3C9-08002B2F49FB}#1.2#0; COMDLG32.OCX
 Form=FormChatMacros.frm
 Module=RebelGlobals; RebelGlobals.bas
-Module=FileRoutines; ..\SkyPipeII\FileRoutines.bas
+Module=FileRoutines; FileRoutines.bas
 IconForm="Form1"
 Startup="Form1"
 Command32=""
